@@ -54,6 +54,7 @@ LLM Generates Grounded Answer
 lunartech-handbook-rag/
 │
 ├── app.py # Streamlit UI
+|
 ├── rag.py # Embedding + LLM logic
 ├── handbook.py # Handbook generation logic
 ├── pdf_utils.py # PDF loading & chunking
